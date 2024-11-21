@@ -68,7 +68,7 @@
           "height": 261
         }
       },
-      "execution_count": null,
+      "execution_count": None,
       "outputs": [
         {
           "output_type": "stream",
@@ -442,7 +442,7 @@
           "height": 1000
         }
       },
-      "execution_count": null,
+      "execution_count": None,
       "outputs": [
         {
           "output_type": "display_data",
@@ -477,7 +477,7 @@
           "height": 472
         }
       },
-      "execution_count": null,
+      "execution_count": None,
       "outputs": [
         {
           "output_type": "display_data",
@@ -508,7 +508,7 @@
       "metadata": {
         "id": "5XhJx5JDcqqt"
       },
-      "execution_count": null,
+      "execution_count": None,
       "outputs": []
     },
     {
@@ -525,7 +525,7 @@
           "base_uri": "https://localhost:8080/"
         }
       },
-      "execution_count": null,
+      "execution_count": None,
       "outputs": [
         {
           "output_type": "stream",
@@ -1697,7 +1697,7 @@
       "metadata": {
         "id": "OOb9039ZczU1"
       },
-      "execution_count": null,
+      "execution_count": None,
       "outputs": []
     },
     {
@@ -1726,7 +1726,7 @@
           "base_uri": "https://localhost:8080/"
         }
       },
-      "execution_count": null,
+      "execution_count": None,
       "outputs": [
         {
           "output_type": "stream",
@@ -1752,7 +1752,7 @@
           "height": 554
         }
       },
-      "execution_count": null,
+      "execution_count": None,
       "outputs": [
         {
           "output_type": "stream",
